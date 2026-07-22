@@ -1,1 +1,0 @@
-- [Stale composite dist types](stale-dist-types.md) — "no exported member" from a workspace lib usually means stale dist/*.d.ts; rebuild with `tsc -b <lib> --force`.
